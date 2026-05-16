@@ -1,0 +1,36 @@
+internal/tracker/engine.go
+  s_d52ea81a26f2f2::t_d0ac36837bea2b 1141,1145-1148
+  s_d52ea81a26f2f2::t_b5dffa83bd2ba5 433
+  s_d52ea81a26f2f2::t_33ebf61a9a6261 415
+  s_d52ea81a26f2f2::t_b78a3704bfb81a 363,373,379
+  s_d52ea81a26f2f2::t_bd47414116b95a 1099-1107,1109-1119,1121-1124
+  s_d52ea81a26f2f2::t_c2fdc594dc9379 490,498,502,521,524,534,537
+  s_d52ea81a26f2f2::t_4bf8dffa84d0cb 452,465,474
+  s_d52ea81a26f2f2::t_f30a73cbc09c65 907,913,921,929,940,944
+  s_d52ea81a26f2f2::t_0909f2478ba0c8 966,980,984-985,992,1007,1012,1024,1032,1035
+  s_d52ea81a26f2f2::t_5d4bdf5e28446a 1488-1505
+  s_d52ea81a26f2f2::t_81cf4e0d43157c 106-110
+  s_d52ea81a26f2f2::t_e8072a00f9d750 1054,1059,1064,1069,1077
+internal/tracker/engine_test.go
+  s_d52ea81a26f2f2::t_c918572138f94a 3088-3138
+  s_d52ea81a26f2f2::t_90765554ac3b30 2961-3087
+cmd/bd/github.go
+  s_d52ea81a26f2f2::t_634792bfd6a5e9 13
+  s_d52ea81a26f2f2::t_197b38ad430c21 387-389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "3f7223dddce32c0858df0e8bd751050ede8b8e57",
+  "prompts": {},
+  "sessions": {
+    "s_d52ea81a26f2f2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4dcd5107-e19f-4f7e-9d86-76dabf637491",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Sean Brandt <4678+seanb4t@users.noreply.github.com>"
+    }
+  }
+}
